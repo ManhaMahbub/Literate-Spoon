@@ -1,12 +1,5 @@
 # GNN-Based EMG Gesture Recognition (NinaPro DB1)
 
-**Course:** CSE475 — Machine Learning, Summer 2026
-**Track:** Track 1 — Graph Neural Network on Table-Style Data
-**Group:** 03
-**Institution:** East West University, Dept. of CSE
-
----
-
 ## Overview
 
 This project builds a Graph Neural Network (GNN) to recognize hand gestures from surface
@@ -34,7 +27,7 @@ Group03_NinaProDB1_CSE475/
 ├── report/
 │   ├── task1/Group03_NinaProDB1_task1_report.pdf
 │   ├── task2/Group03_NinaProDB1_task2_report.pdf
-│   └── task3/Group03_NinaProDB1_task3_report.pdf        # final
+│   └── task3/Group03_NinaProDB1_task3_report.pdf       
 ├── code/
 │   ├── task1/Group03_NinaProDB1_task1_eda.ipynb
 │   ├── task2/Group03_NinaProDB1_task2_baselines.ipynb
@@ -44,7 +37,7 @@ Group03_NinaProDB1_CSE475/
 ├── related_work/
 │   ├── Group03_NinaProDB1_related_work.tex
 │   ├── references.bib
-│   └── papers/                                          # source PDFs of reviewed papers
+│   └── papers/                                         
 └── models/
     ├── Group03_NinaProDB1_best.pth
     └── label_map.json
